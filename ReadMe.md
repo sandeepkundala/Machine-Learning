@@ -16,3 +16,10 @@
 > 
 > ## Expected Output:
 > Get a high accuracy model (90%+)
+>
+> ## Models Trained:
+> We have trained the dataset on Support Vector Machine, KNN Classifier, Decision Tree Classifier, Naive Bayes Classifier, Adaboost Classifier, XGBoost Classifier in Python.
+>
+> ## Future Work:
+> 1. Train the dataset using Neural Networks.
+> 2. Perform similar operation in R, Scala, Hadoop + Apache ML and other cloud platforms to get hands-on experience on different platforms and languages for Machine Learning.
