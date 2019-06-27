@@ -24,7 +24,7 @@
 > 1. Train the dataset using Neural Networks.
 > 2. Perform similar operation in R, Scala, Hadoop + Apache ML and other cloud platforms to get hands-on experience on different platforms and languages for Machine Learning.
 > 3. Reverse engineer the preprocessing of raw data (from .pcap file to the data considered for Machine Learning.
-
+------------------------------------------------------------------------------------------------------------------
 
 > # Network Anamoly Detection:
 >
